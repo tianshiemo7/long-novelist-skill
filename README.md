@@ -1,7 +1,7 @@
 # Long Novelist — 百万字长篇小说创作助手
 
-[![npm version](https://img.shields.io/github/package-json/v/tianshiemo7/long-novelist)](https://github.com/tianshiemo7/long-novelist/pkgs/npm/long-novelist)
-[![License](https://img.shields.io/github/license/tianshiemo7/long-novelist)](./LICENSE)
+[![npm version](https://img.shields.io/github/package-json/v/tianshiemo7/long-novelist-skill)](https://github.com/tianshiemo7/long-novelist-skill/pkgs/npm/long-novelist)
+[![License](https://img.shields.io/github/license/tianshiemo7/long-novelist-skill)](./LICENSE)
 
 一个为**百万字级**长篇小说创作而设计的 Claude Code Skill。通过 5 个分阶段流程、13 个写作技法指南、11 个网文素材库，系统化地辅助你完成从创意到完稿的整个创作过程。
 
@@ -344,7 +344,7 @@ JSON 格式的伏笔清单，每条伏笔记录：
 直接复制到 Claude Code 的 skills 目录：
 
 ```bash
-git clone https://github.com/tianshiemo7/long-novelist.git ~/.claude/skills/long-novelist
+git clone https://github.com/tianshiemo7/long-novelist-skill.git ~/.claude/skills/long-novelist
 ```
 
 然后在 Claude Code 中输入 `/long-novelist` 即可使用。
