@@ -1,0 +1,31 @@
+{
+  "name": "@tianshiemo7/long-novelist",
+  "version": "1.0.0",
+  "description": "专业百万字长篇小说创作助手 — Claude Code Skill",
+  "keywords": [
+    "claude-code",
+    "skill",
+    "novel",
+    "writing",
+    "chinese-novel",
+    "长篇写作",
+    "小说创作",
+    "网文"
+  ],
+  "homepage": "https://github.com/tianshiemo7/long-novelist#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tianshiemo7/long-novelist.git"
+  },
+  "license": "MIT",
+  "author": "tianshiemo7",
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "references/",
+    "scripts/"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
