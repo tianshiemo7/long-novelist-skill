@@ -1,9 +1,9 @@
-# Long Novelist — 百万字长篇小说创作助手
+# Long Novelist — 百万字长篇中文小说创作助手
 
 [![npm version](https://img.shields.io/github/package-json/v/tianshiemo7/long-novelist-skill)](https://github.com/tianshiemo7/long-novelist-skill/pkgs/npm/long-novelist)
 [![License](https://img.shields.io/github/license/tianshiemo7/long-novelist-skill)](./LICENSE)
 
-一个为**百万字级**长篇小说创作而设计的 Claude Code Skill。通过 5 个分阶段流程、13 个写作技法指南、11 个网文素材库，系统化地辅助你完成从创意到完稿的整个创作过程。
+一个为**百万字级**长篇中文小说创作而设计的 Claude Code Skill。通过 5 个分阶段流程、13 个写作技法指南、11 个网文素材库，系统化地辅助你完成从创意到完稿的整个创作过程。
 
 ---
 
@@ -129,7 +129,7 @@ JSON 格式的伏笔清单，每条伏笔记录：
 或直接说：
 
 ```
-"我想写一部长篇小说"
+"我想写一部长篇中文小说"
 "帮我开始写网文"
 "我要创作一个修仙故事"
 ```
@@ -282,7 +282,7 @@ JSON 格式的伏笔清单，每条伏笔记录：
 
 ## 起承转合：长篇结构铁律
 
-百万字长篇小说必须遵循起承转合四阶段结构：
+百万字长篇中文小说必须遵循起承转合四阶段结构：
 
 | 阶段 | 占比 | 核心任务 | 写作重点 |
 |------|------|---------|---------|
@@ -297,7 +297,7 @@ JSON 格式的伏笔清单，每条伏笔记录：
 
 ## 写作技法指南
 
-以下 13 个指南在创作每章时作为质量参考，覆盖长篇小说创作的各个方面：
+以下 13 个指南在创作每章时作为质量参考，覆盖长篇中文小说创作的各个方面：
 
 | 指南 | 核心内容 |
 |------|---------|
