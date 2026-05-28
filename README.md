@@ -369,3 +369,13 @@ npm install @tianshiemo7/long-novelist
 ---
 
 > "一部百万字小说，始于一个想法，成于一个系统。"
+
+---
+
+## Star 支持
+
+如果这个 skill 对你的创作有帮助，欢迎给仓库点个 Star ⭐
+
+[**>>> 点此前往 GitHub 仓库，点击右上角 Star 按钮 <<<**](https://github.com/tianshiemo7/long-novelist-skill)
+
+你的 Star 是对持续更新的最好鼓励！
